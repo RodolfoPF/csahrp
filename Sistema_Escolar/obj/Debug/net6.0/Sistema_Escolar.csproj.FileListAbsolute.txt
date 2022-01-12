@@ -1,0 +1,15 @@
+E:\git e github\C#\csahrp\Sistema_Escolar\obj\Debug\net6.0\Sistema_Escolar.csproj.AssemblyReference.cache
+E:\git e github\C#\csahrp\Sistema_Escolar\obj\Debug\net6.0\Sistema_Escolar.GeneratedMSBuildEditorConfig.editorconfig
+E:\git e github\C#\csahrp\Sistema_Escolar\obj\Debug\net6.0\Sistema_Escolar.AssemblyInfoInputs.cache
+E:\git e github\C#\csahrp\Sistema_Escolar\obj\Debug\net6.0\Sistema_Escolar.AssemblyInfo.cs
+E:\git e github\C#\csahrp\Sistema_Escolar\obj\Debug\net6.0\Sistema_Escolar.csproj.CoreCompileInputs.cache
+E:\git e github\C#\csahrp\Sistema_Escolar\bin\Debug\net6.0\Sistema_Escolar.exe
+E:\git e github\C#\csahrp\Sistema_Escolar\bin\Debug\net6.0\Sistema_Escolar.deps.json
+E:\git e github\C#\csahrp\Sistema_Escolar\bin\Debug\net6.0\Sistema_Escolar.runtimeconfig.json
+E:\git e github\C#\csahrp\Sistema_Escolar\bin\Debug\net6.0\Sistema_Escolar.dll
+E:\git e github\C#\csahrp\Sistema_Escolar\bin\Debug\net6.0\ref\Sistema_Escolar.dll
+E:\git e github\C#\csahrp\Sistema_Escolar\bin\Debug\net6.0\Sistema_Escolar.pdb
+E:\git e github\C#\csahrp\Sistema_Escolar\obj\Debug\net6.0\Sistema_Escolar.dll
+E:\git e github\C#\csahrp\Sistema_Escolar\obj\Debug\net6.0\ref\Sistema_Escolar.dll
+E:\git e github\C#\csahrp\Sistema_Escolar\obj\Debug\net6.0\Sistema_Escolar.pdb
+E:\git e github\C#\csahrp\Sistema_Escolar\obj\Debug\net6.0\Sistema_Escolar.genruntimeconfig.cache
