@@ -8,7 +8,7 @@ namespace ordenacao.Colecoes
             
             for (int i = 0; i < array.Length; i++)
             {
-                for (int j = 0; j < array.Length - 1; j++)
+                for (int j = array.Length - 1 - 1; j >= 0; j--)
                 {
                     if (array[j] > array[j + 1])
                     {
@@ -22,10 +22,8 @@ namespace ordenacao.Colecoes
 
         public void ImprimirArray(int[] array)
         {
-            for (int i = 0; i < array.Length; i++)
-            {
-                System.Console.WriteLine(array[i]);
-            }
+            var linha = string.Join(", ", array);
+            System.Console.WriteLine(linha);
         }
     }
 }
