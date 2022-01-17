@@ -1,0 +1,15 @@
+E:\git e github\C#\csahrp\Ordenação\ordenacao\bin\Debug\net6.0\ordenacao.exe
+E:\git e github\C#\csahrp\Ordenação\ordenacao\bin\Debug\net6.0\ordenacao.deps.json
+E:\git e github\C#\csahrp\Ordenação\ordenacao\bin\Debug\net6.0\ordenacao.runtimeconfig.json
+E:\git e github\C#\csahrp\Ordenação\ordenacao\bin\Debug\net6.0\ordenacao.dll
+E:\git e github\C#\csahrp\Ordenação\ordenacao\bin\Debug\net6.0\ref\ordenacao.dll
+E:\git e github\C#\csahrp\Ordenação\ordenacao\bin\Debug\net6.0\ordenacao.pdb
+E:\git e github\C#\csahrp\Ordenação\ordenacao\obj\Debug\net6.0\ordenacao.csproj.AssemblyReference.cache
+E:\git e github\C#\csahrp\Ordenação\ordenacao\obj\Debug\net6.0\ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\git e github\C#\csahrp\Ordenação\ordenacao\obj\Debug\net6.0\ordenacao.AssemblyInfoInputs.cache
+E:\git e github\C#\csahrp\Ordenação\ordenacao\obj\Debug\net6.0\ordenacao.AssemblyInfo.cs
+E:\git e github\C#\csahrp\Ordenação\ordenacao\obj\Debug\net6.0\ordenacao.csproj.CoreCompileInputs.cache
+E:\git e github\C#\csahrp\Ordenação\ordenacao\obj\Debug\net6.0\ordenacao.dll
+E:\git e github\C#\csahrp\Ordenação\ordenacao\obj\Debug\net6.0\ref\ordenacao.dll
+E:\git e github\C#\csahrp\Ordenação\ordenacao\obj\Debug\net6.0\ordenacao.pdb
+E:\git e github\C#\csahrp\Ordenação\ordenacao\obj\Debug\net6.0\ordenacao.genruntimeconfig.cache
