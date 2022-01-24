@@ -1,0 +1,15 @@
+E:\Projetos\cadastro\bin\Debug\net6.0\Cadastro.exe
+E:\Projetos\cadastro\bin\Debug\net6.0\Cadastro.deps.json
+E:\Projetos\cadastro\bin\Debug\net6.0\Cadastro.runtimeconfig.json
+E:\Projetos\cadastro\bin\Debug\net6.0\Cadastro.dll
+E:\Projetos\cadastro\bin\Debug\net6.0\ref\Cadastro.dll
+E:\Projetos\cadastro\bin\Debug\net6.0\Cadastro.pdb
+E:\Projetos\cadastro\obj\Debug\net6.0\Cadastro.csproj.AssemblyReference.cache
+E:\Projetos\cadastro\obj\Debug\net6.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\cadastro\obj\Debug\net6.0\Cadastro.AssemblyInfoInputs.cache
+E:\Projetos\cadastro\obj\Debug\net6.0\Cadastro.AssemblyInfo.cs
+E:\Projetos\cadastro\obj\Debug\net6.0\Cadastro.csproj.CoreCompileInputs.cache
+E:\Projetos\cadastro\obj\Debug\net6.0\Cadastro.dll
+E:\Projetos\cadastro\obj\Debug\net6.0\ref\Cadastro.dll
+E:\Projetos\cadastro\obj\Debug\net6.0\Cadastro.pdb
+E:\Projetos\cadastro\obj\Debug\net6.0\Cadastro.genruntimeconfig.cache
